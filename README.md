@@ -1,5 +1,4 @@
-# 🚀 trabalho2904
-
+# 🐳 Servidor Node.js com Docker
 Este projeto é um servidor **Node.js** simples utilizando **Express**, preparado para execução em ambiente **Docker**.
 
 ---
